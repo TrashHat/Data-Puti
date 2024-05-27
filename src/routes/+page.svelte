@@ -131,34 +131,40 @@
 <!-- Team -->
 <div class="container p-10 mx-auto ">
 	<article id="#Team" class="wrapper style2">
-	<div class="flex gap-5 space-x-4 justify-center">
-		<div class="card card-hover p-4 flex flex-col items-center">
-			<a href="https://github.com/davidandal"> 
-				<Avatar src="https://pngimg.com/uploads/github/github_PNG40.png" width="w-32" rounded="rounded-full" />
-			</a>
-			<h2 class="font-bold">David Vincent C. Andal, WFZ</h2>
-			<br>
-			<p>Hallo! I'm David, currently in my second year, taking up BS Computer Science at the University of the Philippines - Diliman. My dream is to become a game developer, using Data Science to enhance gameplay and create unforgettable experiences for future players. You'll find me working on small game projects or playing online games.
-			</p>
+		<h1 class="mb-4 text-4xl tracking-tight leading-none text-black">Get to Know us!</h1>
+		<br>
+		<div class="flex gap-5 space-x-4 justify-center">
+			<div class="card card-hover p-4 flex flex-col items-center">
+				<a href="https://github.com/davidandal"> 
+					<Avatar src="https://pngimg.com/uploads/github/github_PNG40.png" width="w-32" rounded="rounded-full" />
+				</a>
+				<h2 class="font-bold">David Vincent C. Andal, WFZ</h2>
+				<br>
+				<p>Hallo! I'm David, currently in my second year, taking up BS Computer Science at the University of the Philippines - Diliman. My dream is to become a game developer, using Data Science to enhance gameplay and create unforgettable experiences for future players. You'll find me working on small game projects or playing online games.
+				</p>
+			</div>
+			<div class="card card-hover p-4 flex flex-col items-center">
+				<a href="https://github.com/TrashHat"> 
+					<Avatar src="https://pngimg.com/uploads/github/github_PNG40.png" width="w-32" rounded="rounded-full" />
+				</a>
+				<h2 class="font-bold">Julian Andrei C. Dolojan, WFZ</h2>
+				<br>
+				<p></p>
+			</div>
+			<div class="card card-hover p-4 flex flex-col items-center">
+				<a href="https://github.com/justinelsrn"> 
+					<Avatar src="https://pngimg.com/uploads/github/github_PNG40.png" width="w-32" rounded="rounded-full" />
+				</a>
+				<h2 class="font-bold">Justine Eusebio Soriano, WFZ</h2>
+				<br>
+				<p>Hiii, I'm Seb, a Sophomore (actually, third-year) Computer Science undergrad from the University of the Philippines - Diliman. I hope to contribute to medical diagnostics some time in the future. Outside acads, I enjoy slice-of-life lighthearted dramas and reading, sometimes writing, poetry!
+				</p>
+			</div>
 		</div>
-		<div class="card card-hover p-4 flex flex-col items-center">
-			<a href="https://github.com/TrashHat"> 
-				<Avatar src="https://pngimg.com/uploads/github/github_PNG40.png" width="w-32" rounded="rounded-full" />
-			</a>
-			<h2 class="font-bold">Julian Andrei C. Dolojan, WFZ</h2>
-			<br>
-			<p></p>
+		<br>
+		<div class="flex justify-center items-center">
+			<a href="/">Contact Us!</a>
 		</div>
-		<div class="card card-hover p-4 flex flex-col items-center">
-			<a href="https://github.com/justinelsrn"> 
-				<Avatar src="https://pngimg.com/uploads/github/github_PNG40.png" width="w-32" rounded="rounded-full" />
-			</a>
-			<h2 class="font-bold">Justine Eusebio Soriano, WFZ</h2>
-			<br>
-			<p>Hiii, I'm Seb, a Sophomore (actually, third-year) Computer Science undergrad from the University of the Philippines - Diliman. I hope to contribute to medical diagnostics some time in the future. Outside acads, I enjoy slice-of-life lighthearted dramas and reading, sometimes writing, poetry!
-			</p>
-		</div>
-	</div>
 	</article>
 </div>
 
