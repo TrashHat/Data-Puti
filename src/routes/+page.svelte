@@ -133,7 +133,7 @@
 	<article id="#Team" class="wrapper style2">
 	<div class="flex gap-5 space-x-4 justify-center">
 		<div class="card card-hover p-4 flex flex-col items-center">
-			<a href="/"> 
+			<a href="https://github.com/davidandal"> 
 				<Avatar src="https://pngimg.com/uploads/github/github_PNG40.png" width="w-32" rounded="rounded-full" />
 			</a>
 			<h2 class="font-bold">David Vincent C. Andal, WFZ</h2>
@@ -150,7 +150,7 @@
 			<p></p>
 		</div>
 		<div class="card card-hover p-4 flex flex-col items-center">
-			<a href="/"> 
+			<a href="https://github.com/justinelsrn"> 
 				<Avatar src="https://pngimg.com/uploads/github/github_PNG40.png" width="w-32" rounded="rounded-full" />
 			</a>
 			<h2 class="font-bold">Justine Eusebio Soriano, WFZ</h2>
